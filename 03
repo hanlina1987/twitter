@@ -5,7 +5,8 @@
   </head>
   <body>
     <outline text="twitter" title="twitter">
-      <outline text="aave" title="aave" description="" type="rss" version="RSS" htmlUrl="https://medium.com/aave" xmlUrl="https://medium.com/feed/aave"/>
+      <outline text="aave" title="aave" description="" type="rss" version="RSS" htmlUrl="http://101.43.246.85/system/discordRecord/view" xmlUrl="https://medium.com/feed/aave"/>
+      <outline text="Chainlink" title="Chainlink" type="rss" xmlUrl="http://101.43.246.85/system/discordRecord/view/rss/" htmlUrl="http://101.43.246.85/system/discordRecord/view/"/>
       <outline text="Aave Blog - Medium" title="Aave Blog - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/aave?source=rss----b4ab878e405---4" xmlUrl="https://medium.com/feed/aave"/>
     </outline>
   </body>
