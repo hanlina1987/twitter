@@ -5,7 +5,7 @@
   </head>
   <body>
     <outline text="twitterjbtm" title="twitterjbtm">
-      <outline text="DFINITY on Medium" title="DFINITY on Medium" type="rss" xmlUrl="​https://medium.com/feed/@dfinity" htmlUrl="​https://medium.com/@dfinity?source=rss-f46cd59473d8------2"/>
+      <outline text="DFINITY on Medium" title="DFINITY on Medium" type="rss" xmlUrl="https://medium.com/feed/@dfinity" htmlUrl="https://medium.com/@dfinity?source=rss-f46cd59473d8------2"/>
       <outline text="testLayerZero Official - Medium" title="testLayerZero Official - Medium" type="rss" xmlUrl="https://medium.com/feed/layerzero-official" htmlUrl="https://medium.com/layerzero-official"/>
     </outline>
   </body>
