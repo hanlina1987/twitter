@@ -11,6 +11,7 @@
       <outline text="Aave Blog - Medium" title="Aave Blog - Medium" type="rss" xmlUrl="https://medium.com/feed/aave" htmlUrl="https://medium.com/aave?source=rss----b4ab878e405---4"/>
       <outline text="Avalanche on Medium" title="Avalanche on Medium" type="rss" xmlUrl="https://medium.com/feed/@avalancheavax" htmlUrl="https://medium.com/@avalancheavax?source=rss-f7c9f4ea738f------2"/>
       <outline text="Aztec Network - Medium" title="Aztec Network - Medium" type="rss" xmlUrl="https://medium.com/feed/aztec-protocol" htmlUrl="https://medium.com/aztec-protocol?source=rss----f75d14c7bf64---4"/>
+      <outline text="Aztec Network - Medium" title="Aztec Network - Medium" type="rss" xmlUrl="https://medium.com/feed/aztec-protocol" htmlUrl="https://medium.com/aztec-protocol"/>
       <outline text="Bitcoin Core releases" title="Bitcoin Core releases" type="rss" xmlUrl="https://bitcoin.org/en/rss/releases.rss" htmlUrl="https://bitcoin.org/en/version-history"/>
     </outline>
   </body>
