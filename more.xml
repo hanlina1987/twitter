@@ -5,14 +5,8 @@
   </head>
   <body>
     <outline text="twitter" title="twitter">
-      <outline text="AlchemyPlatform_Twitter" title="AlchemyPlatform 的 Twitter" type="rss" xmlUrl="https://rsshub.app/twitter/user/AlchemyPlatform" htmlUrl="https://twitter.com/AlchemyPlatform/"/>
-      <outline text="0xMantle_Twitter" title="0xMantle 的 Twitter" type="rss" xmlUrl="https://rsshub.app/twitter/user/0xMantle" htmlUrl="https://twitter.com/0xMantle/"/>
-      <outline text="0xHashstack_Twitter" title="0xHashstack 的 Twitter" type="rss" xmlUrl="https://rsshub.app/twitter/user/0xHashstack" htmlUrl="https://twitter.com/0xHashstack/"/>
-      <outline text="Aave Blog - Medium" title="Aave Blog - Medium" type="rss" xmlUrl="https://medium.com/feed/aave" htmlUrl="https://medium.com/aave?source=rss----b4ab878e405---4"/>
-      <outline text="Avalanche on Medium" title="Avalanche on Medium" type="rss" xmlUrl="https://medium.com/feed/@avalancheavax" htmlUrl="https://medium.com/@avalancheavax?source=rss-f7c9f4ea738f------2"/>
-      <outline text="Aztec Network - Medium" title="Aztec Network - Medium" type="rss" xmlUrl="https://medium.com/feed/aztec-protocol" htmlUrl="https://medium.com/aztec-protocol?source=rss----f75d14c7bf64---4"/>
-      <outline text="testAztec Network - Medium" title="testAztec Network - Medium" type="rss" xmlUrl="https://medium.com/feed/aztec-protocol" htmlUrl="https://medium.com/aztec-protocol"/>
-      <outline text="Bitcoin Core releases" title="Bitcoin Core releases" type="rss" xmlUrl="https://bitcoin.org/en/rss/releases.rss" htmlUrl="https://bitcoin.org/en/version-history"/>
+      <outline text="aave" title="aave" description="" type="rss" version="RSS" htmlUrl="https://medium.com/aave" xmlUrl="https://medium.com/feed/aave"/>
+      <outline text="Aave Blog - Medium" title="Aave Blog - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/aave?source=rss----b4ab878e405---4" xmlUrl="https://medium.com/feed/aave"/>
     </outline>
   </body>
 </opml>
