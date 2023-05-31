@@ -6,6 +6,8 @@
   <body>
     <outline text="twitterjbtm" title="twitterjbtm">
       <outline text="联合早报 Lianhe Zaobao 的 Twitter" title="联合早报 Lianhe Zaobao 的 Twitter" type="rss" xmlUrl="https://rsshub.app/twitter/user/zaobaosg" htmlUrl="https://twitter.com/zaobaosg/"/>
+      <outline text="LayerZero Official - Medium" title="LayerZero Official - Medium" type="rss" xmlUrl="https://medium.com/feed/layerzero-official" htmlUrl="https://medium.com/layerzero-official?source=rss----86a3a7f3e9a7---4"/>
+      <outline text="testLayerZero Official - Medium" title="testLayerZero Official - Medium" type="rss" xmlUrl="https://medium.com/feed/layerzero-official" htmlUrl="https://medium.com/layerzero-official"/>
     </outline>
   </body>
 </opml>
